@@ -1,1 +1,3 @@
 print("Der text wird gepusht an GitHub")
+
+prtin ("Danke, schicke ich zurück")
